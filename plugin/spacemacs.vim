@@ -39,6 +39,10 @@ noremap <leader>fp :GFiles<CR>
 noremap <leader>fd :Files %:p:h<CR>
 " find recent opened file
 noremap <leader>fh :History<CR>
+" copy file relative path
+noremap <leader>fy :let @+ = expand("%")<CR>
+" copy file full path
+noremap <leader>fY :let @+ = expand("%:p")<CR>
 
 
 "" g: git
