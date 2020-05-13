@@ -40,6 +40,8 @@ Use by pressing `LEADER + keys`
 | fp   | find project files                        | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
 | fd   | find files in current file directory      | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
 | fh   | find recent opened file                   | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
+| fy   | copy file relative path                   |                                                                                        |
+| fY   | copy file full path                       |                                                                                        |
 |      | **g: git**                                |                                                                                        |
 | gs   | git status                                | [Fugitive](https://github.com/tpope/vim-fugitive)                                      |
 |      | **m: mode** `golang`                      |                                                                                        |
