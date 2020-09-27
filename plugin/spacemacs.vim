@@ -94,11 +94,14 @@ noremap <leader>qr :so ~/.vimrc<CR>
 
 " clear search results
 noremap <leader>sc :let @/=''<CR>
+" search buffers
+noremap <leader>sb :Lines<CR>
 " search current buffer
-noremap <leader>sb :BLines<CR>
-" search open buffers
-noremap <leader>sB :Lines<CR>
-
+noremap <leader>sB :BLines<CR>
+" search tags
+noremap <leader>st :Lines<CR>
+" search current buffer tags
+noremap <leader>sT :BLines<CR>
 
 "" t: toggle
 "-----------

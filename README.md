@@ -60,8 +60,10 @@ Use by pressing `LEADER + keys`
 | qr   | reload ~/.vimrc                           |                                                                                        |
 |      | **s: search**                             |                                                                                        |
 | sc   | clear search results                      |                                                                                        |
-| sb   | search current buffer                     | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
-| sB   | search open buffers                       | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
+| sb   | search open buffers                       | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
+| sB   | search current buffer                     | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
+| st   | search tags                               | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
+| sT   | search current buffer tags                | [fzf.vim](https://github.com/junegunn/fzf.vim), [fzf](https://github.com/junegunn/fzf) |
 |      | **t: toggle**                             |                                                                                        |
 | tl   | word wrap                                 |                                                                                        |
 | tn   | line numbers                              |                                                                                        |
